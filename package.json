@@ -1,0 +1,22 @@
+{
+  "name": "current-time-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "tsc && vite build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "date-fns": "^4.1.0"
+  },
+  "devDependencies": {
+    "@types/date-fns": "^2.5.3",
+    "typescript": "^5.6.3",
+    "vite": "^5.4.10"
+  }
+}

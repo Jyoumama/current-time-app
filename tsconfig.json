@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist",
+    "module": "ES6",
+    "target": "ES5",
+    "strict": true,
+    "moduleResolution": "node",
+    "lib": ["ES2020", "DOM"],
+    "forceConsistentCasingInFileNames": true
+  },
+  "include": ["src/**/*.ts"]
+}
