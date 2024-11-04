@@ -1,2 +1,3 @@
 # ビルド後の生成物を無視
 dist/
+node_modules/
